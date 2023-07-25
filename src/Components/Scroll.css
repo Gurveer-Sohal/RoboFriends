@@ -1,0 +1,7 @@
+.scrollDiv {
+    overflow-y: scroll;
+    height: 100vh;
+}
+.scrollDiv::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,13 @@
+.searchDiv {
+    display: flex;
+    justify-content: center;
+}
+input {
+    padding: 1em;
+    border: 2px solid black;
+    color: blue;
+
+}
+::placeholder{
+    color: blue;
+}
